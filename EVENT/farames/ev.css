@@ -1,0 +1,159 @@
+body
+{
+	
+	
+	margin: 0;
+	
+	padding: 0;
+	
+background: url(11.jpg);
+	
+	background-size: cover;
+	background-position:center;
+	font-family:sans-serif;
+	
+}
+
+{
+	margin: 0;
+	padding: 0;
+    font: 1em "open sans," sans-serif; 	 
+	
+	/*-----------------------------------------*/
+	}
+	
+
+	.pl #pc {
+		float: left;
+		height: 0px;
+		padding: 10px 800px;
+font-size: 1.2em;
+line-height: 30px;		
+		
+		
+	
+	}
+	
+	
+
+
+	.pl> ul {
+		margin: 0;
+		padding: 0; 
+		float: left;
+		list-style-type: none;
+		
+		
+	
+		
+	}
+	
+	
+	.pl > ul > li {
+		float: left; 
+		
+		
+		
+	}
+	
+	.pl {
+		display: inline-block;
+		padding: 30px 100px;
+		height: 30px;
+		line-height: 30px;
+		color: #FAFAFA;
+		text-direction: none;
+		background-color:#000000;
+	}
+	
+	.pl-item:hover {
+		background: url(22.gif);
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	.pll #pc {
+		float: left;
+		height: 0px;
+		padding: 10px 900px;
+font-size: 1.2em;
+line-height: 30px;		
+		
+		
+	
+	}
+	
+	
+
+
+	.pll> ul {
+		margin: 0;
+		padding: 0; 
+		float: left;
+		list-style-type: none;
+		
+		
+	
+		
+	}
+	
+	
+	.pll > ul > li {
+		float: left; 
+		
+		
+		
+	}
+	
+	.pll {
+		display: inline-block;
+		padding: 30px 900px;
+		height: 30px;
+		line-height: 60px;
+		color: #FAFAFA;
+		text-direction: none;
+		background-color:#000000;
+	}
+	
+	.pll-item:hover {
+		background: url(22.gif);
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
