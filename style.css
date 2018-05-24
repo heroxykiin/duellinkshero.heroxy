@@ -58,16 +58,16 @@ line-height: 15px;
 	
 	.menu-item {
 		display: inline-block;
-		padding: 10px 35;
-		height: 30px;
-		line-height: 30px;
+		padding: 10px 50;
+		height: 20px;
+		line-height: 15px;
 		color: #FAFAFA;
 		text-direction: none;
-		background-color:#000000;
+		
 	}
 	
 	.menu-item:hover {
-		background: url(gif.gif);
+		background-color:red;
 		
 	}
 	
@@ -111,3 +111,7 @@ line-height: 15px;
 	
 	
 }
+
+	
+	
+	
