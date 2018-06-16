@@ -1,1 +1,25 @@
 
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://duellinkshero.netlify.com/</loc>
+  </url>
+  <url>
+    <loc>http://duellinkshero.netlify.com/contact/contact</loc>
+  </url>
+  <url>
+    <loc>http://duellinkshero.netlify.com/hcs/hcs1rapport</loc>
+  </url>
+  <url>
+    <loc>http://duellinkshero.netlify.com/hcs/hcs2rapo</loc>
+  </url>
+  <url>
+    <loc>http://duellinkshero.netlify.com/index.html</loc>
+  </url>
+  <url>
+    <loc>http://duellinkshero.netlify.com/streamers%20duel%20links/live</loc>
+  </url>
+  <url>
+    <loc>http://duellinkshero.netlify.com/website%20devloper/website%20devloper</loc>
+  </url>
+</urlset>
